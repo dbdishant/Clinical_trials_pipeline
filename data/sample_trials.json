@@ -1,0 +1,147 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00000620",
+        "briefTitle": "Lifestyle Intervention for Glycemic Control in Type 2 Diabetes"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {"date": "2019-03-01"},
+        "completionDateStruct": {"date": "2022-09-30"}
+      },
+      "designModule": {
+        "phases": ["NA"],
+        "enrollmentInfo": {"count": 412}
+      },
+      "conditionsModule": {
+        "conditions": ["Type 2 Diabetes Mellitus"]
+      },
+      "descriptionModule": {
+        "briefSummary": "This study evaluates whether a structured diet and exercise intervention, delivered over 12 months, improves long-term blood glucose control compared to standard care in adults recently diagnosed with type 2 diabetes."
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: Adults aged 18-65; HbA1c between 7.0% and 10.0% at screening; diagnosed with type 2 diabetes within the past 5 years; able to participate in moderate physical activity. Exclusion Criteria: Type 1 diabetes; current insulin therapy; pregnancy; history of bariatric surgery; uncontrolled cardiovascular disease."
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Northeastern Metabolic Research Institute"}
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00001145",
+        "briefTitle": "Safety and Efficacy of a Novel GLP-1 Agonist in Type 2 Diabetes"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {"date": "2024-01-15"},
+        "completionDateStruct": {"date": "2026-12-31"}
+      },
+      "designModule": {
+        "phases": ["PHASE3"],
+        "enrollmentInfo": {"count": 1200}
+      },
+      "conditionsModule": {
+        "conditions": ["Type 2 Diabetes Mellitus", "Obesity"]
+      },
+      "descriptionModule": {
+        "briefSummary": "A randomized, double-blind, placebo-controlled trial assessing the safety and glucose-lowering effect of a once-weekly injectable GLP-1 receptor agonist in adults with type 2 diabetes who are overweight or obese."
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: Adults 18 years or older; BMI of 27 or greater; HbA1c between 7.5% and 11.0%; on stable metformin therapy for at least 3 months. Exclusion Criteria: History of pancreatitis; personal or family history of medullary thyroid carcinoma; severe gastrointestinal disease; current use of another GLP-1 agonist or insulin."
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Horizon Therapeutics Research Division"}
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00002873",
+        "briefTitle": "Continuous Glucose Monitoring in Pediatric Type 2 Diabetes"
+      },
+      "statusModule": {
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "startDateStruct": {"date": "2022-06-01"},
+        "completionDateStruct": {"date": "2025-06-01"}
+      },
+      "designModule": {
+        "phases": ["NA"],
+        "enrollmentInfo": {"count": 85}
+      },
+      "conditionsModule": {
+        "conditions": ["Type 2 Diabetes Mellitus"]
+      },
+      "descriptionModule": {
+        "briefSummary": "This observational study examines whether continuous glucose monitoring devices improve glycemic awareness and outcomes in adolescents recently diagnosed with type 2 diabetes, compared to standard fingerstick monitoring."
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: Age 10-17 years; diagnosed with type 2 diabetes within the past 2 years; parent or guardian able to provide consent. Exclusion Criteria: Type 1 diabetes; current use of insulin pump; cognitive impairment preventing device use."
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Children's Metabolic Health Network"}
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00003991",
+        "briefTitle": "Telehealth Coaching for Diabetes Self-Management"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED",
+        "startDateStruct": {"date": "2020-02-01"},
+        "completionDateStruct": {"date": "2021-08-15"}
+      },
+      "designModule": {
+        "phases": [],
+        "enrollmentInfo": {"count": 256}
+      },
+      "conditionsModule": {
+        "conditions": ["Type 2 Diabetes Mellitus"]
+      },
+      "descriptionModule": {
+        "briefSummary": "This study tests whether weekly telehealth coaching sessions focused on diet, medication adherence, and self-monitoring improve HbA1c and quality of life in adults with poorly controlled type 2 diabetes."
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: Adults 21 and older; HbA1c greater than 8.0% at enrollment; access to a smartphone or tablet with internet. Exclusion Criteria: Severe hearing or vision impairment preventing telehealth participation; current enrollment in another diabetes management program."
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Eastside Community Health Partners"}
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT00004520",
+        "briefTitle": "Gut Microbiome Changes Following Metformin Initiation"
+      },
+      "statusModule": {
+        "overallStatus": "NOT_YET_RECRUITING",
+        "startDateStruct": {"date": "2026-09-01"},
+        "completionDateStruct": {"date": "2028-03-01"}
+      },
+      "designModule": {
+        "phases": ["PHASE1"],
+        "enrollmentInfo": {"count": 60}
+      },
+      "conditionsModule": {
+        "conditions": ["Type 2 Diabetes Mellitus"]
+      },
+      "descriptionModule": {
+        "briefSummary": "This early-phase study characterizes how gut microbiome composition shifts in the first 12 weeks after starting metformin in newly diagnosed type 2 diabetes patients, to understand whether microbiome changes relate to drug response."
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria: Adults 18-70; newly diagnosed type 2 diabetes, metformin-naive; willing to provide stool samples at 4 time points. Exclusion Criteria: Antibiotic use within the past 3 months; inflammatory bowel disease; prior bariatric surgery."
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Binghamton University Metabolic Research Lab"}
+      }
+    }
+  }
+]
